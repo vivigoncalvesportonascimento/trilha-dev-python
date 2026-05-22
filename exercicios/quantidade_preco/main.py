@@ -35,5 +35,5 @@ def resposta(area):
     return (latas_necessarias, preco_total)
 
 
-print(resposta(54))
+print(resposta(10))
 print(resposta(60))
