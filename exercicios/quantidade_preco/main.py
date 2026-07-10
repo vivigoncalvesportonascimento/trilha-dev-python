@@ -24,9 +24,9 @@
 import math
 
 
-def resposta(area):
+def resposta(metros):
 
-    litros_necessarios = area / 3
+    litros_necessarios = metros / 3
 
     latas_necessarias = math.ceil(litros_necessarios / 18)
 
